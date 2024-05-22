@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m currently working on: React <br>🌱 I’m currently learning: AWS skills<br>💬 Ask me about: Anything<br>📫 How to reach me: edinstance@outlook.com <br/>
+🔭 I’m currently working on: React <br>🌱 I’m currently learning: AWS skills<br>💬 Ask me about: Anything<br>📫 How to reach me: contact@edinstance.com <br/>
 
 
 # 💻 Tech Stack:
