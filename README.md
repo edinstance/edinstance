@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 I’m currently working on: A Terraform AWS project and a postgresql database project. <br>🌱 I’m currently learning: AWS Developer Skills <br>💬 Ask me about: Anything<br>📫 How to reach me: contact@edinstance.com <br/>
+🔭 I’m currently working on: My dissertation. <br>🌱 I’m currently learning: AWS Developer Skills <br>💬 Ask me about: Anything<br>📫 How to reach me: contact@edinstance.com <br/>
 
 
 ## 🌐 Socials:
